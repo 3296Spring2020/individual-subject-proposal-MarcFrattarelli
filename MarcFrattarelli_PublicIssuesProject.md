@@ -7,20 +7,20 @@
 -	This project utilizes many different technologies and focuses on putting them all together. It also is going to be fueled by test driven development. For example the best way to get APIs working is through testing. Git will also obviously be a requirement for all members. The implementation of agile methodologies like a trello/scrum board and ability to change plans will also be used in this project. We may find the original ideas or scope must be modified to accommodate other technologies or find that one of our tools can be replaced by something better. This will fuel small team work and collaboration. We will also need to use UML to map everything out as anything involving a network or API should be drawn first. This is also a usage of database technologies. This project also uses XML on top of all of this.
 
 ## Conceptual Design
--Running:
---https://github.com/mysociety/fixmystreet-mobile.git 
--Build
-  --Create a node js config file, package json file, and a config.xml file based on the provided examples in github
-  --Use apache cordova
-        ---check for latest versions and install
-  --install latest android api builds and create an android virtual device to run it on
- -Run
-  --run the project on cordova emulate ios or cordova emulate android
--Required Resources
-  --Knowlege of
-      -css
-      -javascript
-      -IOS or Android
-      -
+### URL:
+- https://github.com/mysociety/fixmystreet-mobile.git 
+### Build
+- Create a node js config file, package json file, and a config.xml file based on the provided examples in github
+- Use apache cordova
+- check for latest versions and install
+- install latest android api builds and create an android virtual device to run it on
+### Run
+- run the project on cordova emulate ios or cordova emulate android
+- Required Resources
+#### Knowlege of
+- css
+- javascript
+- IOS or Android
+-
 ## What to submit
 Create two new files named **YourName_ProjectTitle.md** and **YourName_ProjectTitle.png** for your proposal. Use [StellaOwl_PayStation.md](StellaOwl_Paystation.md) as a template. 
