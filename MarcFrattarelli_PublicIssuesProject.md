@@ -17,11 +17,12 @@
 ### Run
 - run the project on cordova emulate ios or cordova emulate android
 
-#### Requirements
+### Requirements
 - Run using an apache server
 - IDE of choice
-- css
-- json format
+- CSS
+- JSON format
 - XML and UML knowlege
 - javascript
-- IOS or Android
+- IOS or Android knowlege
+- IOS or android virtual machine
