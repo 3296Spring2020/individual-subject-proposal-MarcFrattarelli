@@ -16,11 +16,12 @@
 - install latest android api builds and create an android virtual device to run it on
 ### Run
 - run the project on cordova emulate ios or cordova emulate android
-- Required Resources
-#### Knowlege of
+
+#### Requirements
+- Run using an apache server
+- IDE of choice
 - css
+- json format
+- XML and UML knowlege
 - javascript
 - IOS or Android
--
-## What to submit
-Create two new files named **YourName_ProjectTitle.md** and **YourName_ProjectTitle.png** for your proposal. Use [StellaOwl_PayStation.md](StellaOwl_Paystation.md) as a template. 
